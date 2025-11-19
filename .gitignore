@@ -1,0 +1,12 @@
+# Virtual environments
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated artifacts
+artifacts/
+
+# OS cruft
+.DS_Store
