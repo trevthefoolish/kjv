@@ -6,7 +6,9 @@ __pycache__/
 *.pyc
 
 # Generated artifacts
-artifacts/
+artifacts/*
+!artifacts/bible_index.npz
+!artifacts/bible_index.meta.json
 
 # OS cruft
 .DS_Store

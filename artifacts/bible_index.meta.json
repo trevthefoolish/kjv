@@ -1,0 +1,7 @@
+{
+  "embed_model": "text-embedding-3-large",
+  "chunk_size": 6,
+  "chunk_overlap": 2,
+  "num_passages": 8238,
+  "bible_path": "data/kjv.json"
+}
